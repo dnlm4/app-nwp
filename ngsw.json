@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1703454485714,
+  "timestamp": 1703455043468,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-7PEWD24L.js",
+        "/main-ITRKVDN6.js",
         "/manifest.webmanifest",
         "/polyfills-LZBJRJJE.js",
         "/styles-A366OG5O.css"
@@ -65,8 +65,8 @@
     "/assets/videos/video_login_2.mp4": "f42a6138b419777652cfddd6e16534b77a6c1504",
     "/assets/videos/videonuevecito.mp4": "fc4c16bb084f3388581e000ecc9ce574cd7958be",
     "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/index.html": "9d1f7dfb5c94197ae3cb45a1eccae3a6dc707115",
-    "/main-7PEWD24L.js": "ea335094c7fa0145dec2aa000d259437563b1224",
+    "/index.html": "2c029955fab6d955eb7c1dae16c6a857cc7bdff2",
+    "/main-ITRKVDN6.js": "088cf0f349d9ddbd69ab5a1c2ccdfd51f1839c36",
     "/manifest.webmanifest": "42dda2913f55a8e92b4cd6758572c1d43950c887",
     "/polyfills-LZBJRJJE.js": "fda1c82c5c620f1fa442f687b3df45a037f6fcc9",
     "/styles-A366OG5O.css": "ad928ece1e6fa2cd577e77c4cfeab6a6f1cd5bff"
