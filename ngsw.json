@@ -1,0 +1,93 @@
+{
+  "configVersion": 1,
+  "timestamp": 1703454485714,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-7PEWD24L.js",
+        "/manifest.webmanifest",
+        "/polyfills-LZBJRJJE.js",
+        "/styles-A366OG5O.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/imagenes/acceso/fondo_282-609.png",
+        "/assets/imagenes/acceso/fondo_376-812.png",
+        "/assets/imagenes/acceso/fondo_563-1218.png",
+        "/assets/imagenes/acceso/fondo_751-1624.png",
+        "/assets/videos/video.mp4",
+        "/assets/videos/video_login_2.mp4",
+        "/assets/videos/videonuevecito.mp4"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "1e2a09b04cd903dbf0be64d6b404f7da1e36d127",
+    "/assets/icons/icon-144x144.png": "34433d62c80deb4e73d3fcb2299d431298363596",
+    "/assets/icons/icon-152x152.png": "632dbac7821057cd1ae1b15359943c696312b737",
+    "/assets/icons/icon-192x192.png": "908533ca1c895bfebf61206d5c7e690df02978c5",
+    "/assets/icons/icon-384x384.png": "1a46f78e2b8fc19538487aaa43db0a217924704d",
+    "/assets/icons/icon-512x512.png": "6908d29c3d891b4cb7def922f07db4af9bf6e75a",
+    "/assets/icons/icon-72x72.png": "76cdb7207179227648b5d43547fdc60d13d9a487",
+    "/assets/icons/icon-96x96.png": "b18b049a3d1a3ac8ff76b1287fd336f8ec9b89a5",
+    "/assets/imagenes/acceso/fondo_282-609.png": "b6c01dde3888d9bc813f01585e4251468139279a",
+    "/assets/imagenes/acceso/fondo_376-812.png": "4aeff2cb6c21b6bb9eef50f5edd2cd8b21961f8e",
+    "/assets/imagenes/acceso/fondo_563-1218.png": "437fa034da0b13702a2caf629a615b0cb5c90832",
+    "/assets/imagenes/acceso/fondo_751-1624.png": "11bd933c1ebf11631615c3541845997ace6a6b5a",
+    "/assets/videos/video.mp4": "fc4c16bb084f3388581e000ecc9ce574cd7958be",
+    "/assets/videos/video_login_2.mp4": "f42a6138b419777652cfddd6e16534b77a6c1504",
+    "/assets/videos/videonuevecito.mp4": "fc4c16bb084f3388581e000ecc9ce574cd7958be",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/index.html": "9d1f7dfb5c94197ae3cb45a1eccae3a6dc707115",
+    "/main-7PEWD24L.js": "ea335094c7fa0145dec2aa000d259437563b1224",
+    "/manifest.webmanifest": "42dda2913f55a8e92b4cd6758572c1d43950c887",
+    "/polyfills-LZBJRJJE.js": "fda1c82c5c620f1fa442f687b3df45a037f6fcc9",
+    "/styles-A366OG5O.css": "ad928ece1e6fa2cd577e77c4cfeab6a6f1cd5bff"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
